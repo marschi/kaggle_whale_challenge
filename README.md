@@ -1,4 +1,8 @@
-Our Contribution to the [Humbpack Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground).
+Our solution to the [Humbpack Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground).
+This project was done as a contribution for the [Neural Information Processing Conference 2018](https://www.ni.tu-berlin.de/menue/teaching_activities/all_courses/neural_information_processing_project/) of TU-Berlin.
+The challenge was completed within the top 8% of participants.
+
+https://www.kaggle.com/marschi
 
 Abstract from documentation paper:
 
